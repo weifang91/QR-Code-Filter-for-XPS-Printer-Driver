@@ -15,6 +15,6 @@ This project is done by modifying the code as below:
 
 
 
-**Note: The code given is only the part of the project, they are either newly written or modified from the code as shown in above link.
-**Attention: This project is just used for academic purpose, install it with your own risk.
+# **Note: The code given is only the part of the project, they are either newly written or modified from the code as shown in above link.
+# **Attention: This project is just used for academic purpose, install it with your own risk.
 
