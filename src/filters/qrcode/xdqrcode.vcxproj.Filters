@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx;*</Extensions>
+      <UniqueIdentifier>{27EE07C8-4A3B-416F-9266-E7701F9FB1DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+      <UniqueIdentifier>{6811EDBB-9803-4589-BAAE-09AD34EC922A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files">
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms;man;xml</Extensions>
+      <UniqueIdentifier>{68346DB5-5823-45D6-8621-B9323A164F62}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="BitBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="datasax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="dllentry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QrCode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qrcodeflt.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qrcodesax.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QrSegment.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="QrTitleFont.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="precompsrc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="qrptprop.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="*.h;*.hpp;*.hxx;*.hm;*.inl;*.xsd">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="*.h;*.hpp;*.hxx;*.hm;*.inl;*.xsd">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="*.h;*.hpp;*.hxx;*.hm;*.inl;*.xsd">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="*.h;*.hpp;*.hxx;*.hm;*.inl;*.xsd">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="*.h;*.hpp;*.hxx;*.hm;*.inl;*.xsd">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="BitBuffer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="datasax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrCode.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodeflt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrcodesax.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrSegment.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="QrTitleFont.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="qrptprop.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="xdqrcode.def">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="xdqrcode.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

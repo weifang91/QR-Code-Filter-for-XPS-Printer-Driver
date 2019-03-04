@@ -1,0 +1,14 @@
+﻿  Building 'xdqrcode' with toolset 'WindowsApplicationForDrivers10.0' and the 'Desktop' target platform.
+  BitBuffer.cpp
+  datasax.cpp
+  dllentry.cpp
+  precompsrc.cpp
+  QrCode.cpp
+  qrcodeflt.cpp
+  qrcodesax.cpp
+  qrptprop.cpp
+  QrSegment.cpp
+  QrTitleFont.cpp
+  Generating Code...
+     Creating library Debug\xdqrcode.lib and object Debug\xdqrcode.exp
+  xdqrcode.vcxproj -> C:\Users\User\Desktop\Master of Software Engineer\SEM 3\During Internship\Windows-driver-samples\print\XPSDrvSmpl\src\filters\qrcode\Debug\xdqrcode.dll

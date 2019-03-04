@@ -1,0 +1,29 @@
+*%
+*%
+*% File Name:
+*%
+*%    xdqrcode.gpd
+*%
+*% Abstract:
+*%
+*%    XPSDrv filter feature sample driver qrcode specific GPD settings.
+*%
+
+*%******************************************************************************
+*%                            PageQRCodeOption
+*%******************************************************************************
+*Feature: PageQRCodeOption
+{
+    *rcNameID: =IDS_GPD_QRCODEOPTION
+    *DefaultOption: Disable
+
+    *Option: Disable
+    {
+        *rcNameID: =IDS_GPD_DISABLE
+    }
+
+    *Option: Enable
+    {
+        *rcNameID: =IDS_GPD_ENABLE
+    }
+}
