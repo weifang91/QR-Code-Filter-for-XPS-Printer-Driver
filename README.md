@@ -13,8 +13,9 @@ This project is done by modifying the code as below:
 1.	XPS Printer Driver - https://github.com/Microsoft/Windows-driver-samples/tree/master/print/XPSDrvSmpl
 2.	QR code generator - https://github.com/nayuki/QR-Code-generator
 
-
-
+To build and install this source code using Microsoft Visual Studio, please refer to the following video:
+1. Build and install XPS Printer Driver - https://www.youtube.com/watch?v=1XPPsVLr4E8
+2. Developing QR Code Filter for XPS Printer Driver - https://www.youtube.com/watch?v=iGOWooBvBas
 
 
 **Note: The code given is only the part of the project, they are either newly written or modified from the code as shown in above link.
